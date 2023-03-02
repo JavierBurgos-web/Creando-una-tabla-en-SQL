@@ -10,7 +10,7 @@ El objetivo es crear una tabla e insertar en ella una serie de datos.
 * [Youtube](https://www.youtube.com/@ingjburgos888/featured)
 
 ## Ver video del material paso a paso ▶️
-- Video aun no subido
+- https://youtu.be/sZ8qbVqgBIg
 
 ## Instalación 📥
 Este proyecto no necesita de instalación. Puedes copiar el codigo y ejecutarlo en https://sqliteonline.com/
